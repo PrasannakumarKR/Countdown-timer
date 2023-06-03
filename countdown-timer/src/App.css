@@ -1,0 +1,50 @@
+.viewport{
+  display: flex;
+  justify-content: center;
+}
+
+.display {
+  width: 380px;
+  height: 40vh;
+  margin: 20px;
+  background-color: black;
+  border: 5px solid rgb(5, 233, 24);
+}
+
+h1 {
+  color: #ffffff;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.count {
+  width: 70%;
+  height: 16vh;
+  margin: 10px 15%;
+  text-align: center;
+  background-color: #ffffff;
+  box-sizing: border-box;
+}
+
+input {
+  width: 20%;
+  height: 20px;
+  margin-left: 10px;
+  margin-right: 2px;
+  font-size: 120px;
+}
+
+button {
+  width: 20%;
+  height: 30px;
+  color: #000000;
+  font-weight: 900;
+  background-color: red;
+  border: #ffffff solid;
+  margin:20px ;
+}
+
+.button{
+  display: flex;
+  margin-left: 25%;
+}
